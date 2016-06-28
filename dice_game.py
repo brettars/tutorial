@@ -98,12 +98,12 @@ def play(nrounds, ndice=2):
 
 def main():
 	################ EDIT 1 ################
-	# welcome_banner()
+	 welcome_banner()
 	########################################
 
 	################ EDIT 2 ################
-	# nrounds = int(raw_input('How many rounds shall we play: '))
-	# play(nrounds)
+	 nrounds = int(raw_input('How many rounds shall we play: '))
+	 play(nrounds)
 	########################################
 
 	play(2) 
